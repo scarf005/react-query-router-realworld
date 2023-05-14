@@ -1,0 +1,4 @@
+{
+  "fmt": { "semiColons": false, "include": ["src/"] },
+  "lint": { "include": ["src/"] }
+}
